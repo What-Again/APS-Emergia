@@ -1,5 +1,5 @@
-Sistema de Cálculo de Emergia
-Interface do Sistema
+#Sistema de Cálculo de Emergia
+##Interface do Sistema
 
 Esta aplicação fornece uma interface gráfica para cálculo de emergia de sistemas, permitindo definir transformidades, adicionar itens de inventário e calcular a emergia total.
 
